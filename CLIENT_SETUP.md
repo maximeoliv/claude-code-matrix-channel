@@ -1,7 +1,7 @@
 # Setup côté ton client Claude Code (Shadow / Mac / Linux / Windows)
 
 Ce MCP server tourne sur **panels** (où Synapse est). Ton Claude Code local le pilote
-via `tailscale ssh` — donc rien à installer côté client à part `tailscale` (déjà là).
+via `tailscale ssh`, donc rien à installer côté client à part `tailscale` (déjà là).
 
 ## 1. Ajouter le MCP à ton `~/.claude.json`
 
